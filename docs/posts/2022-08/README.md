@@ -1,7 +1,7 @@
 ---
 icon: repo
 article: false
-title: Vol. 03 - 2022年08月号
+title: Vol. 03 - 2022 年 08 月号
 ---
 
 ![](./res/cover.webp) {.centering}

@@ -1,7 +1,7 @@
 ---
 icon: repo
 article: false
-title: Vol. 02 - 2022年07月号：相互的彼方
+title: Vol. 02 - 2022 年 07 月号：相互的彼方
 ---
 
 ![](./res/cover.webp) {.centering}

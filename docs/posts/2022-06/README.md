@@ -1,7 +1,7 @@
 ---
 icon: repo
 article: false
-title: Vol. 01 - 2022年06月号
+title: Vol. 01 - 2022 年 06 月号
 ---
 
 ![](./res/cover.webp) {.centering}
