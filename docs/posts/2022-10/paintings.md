@@ -1,15 +1,13 @@
 ---
 icon: palette
-title: 漫画二则
-author: 西江龙王
+title: 画中秘境
 date: 2022-10-22
 category:
   - 画中秘境
 tag:
-  - 西江龙王
-  - 条漫
+  - 插画
 
-order: -2
+order: -1
 ---
 
 
