@@ -12,6 +12,6 @@ tag:
 order: -2
 ---
 
-
+![](./res/comic/comic.png) {.centering}
 
 <ArticleAd />
