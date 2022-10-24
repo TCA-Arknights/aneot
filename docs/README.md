@@ -21,7 +21,7 @@ projects:
 
   - icon: article
     name: 最新一期
-    desc: Vol.03 2022-10
+    desc: Vol.05 2022-10
     link: posts/2022-10
 
   - icon: proposal
