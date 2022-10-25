@@ -1,16 +1,30 @@
 ---
 icon: article
 title: 沙滩、海、我和 TA 的梦
-author: Ashamber
+author: AshAmber
 date: 2022-10-22
 category:
   - 罗德岛日志
 tag:
-  - Ashamber
+  - AshAmber
 description: 愿在风的庇护下，你将得到安眠；愿在浪的彼端，我们还能相见。
 
 order: 4
 ---
+
+<style>
+.sp-10-1 {
+  background-image: url("/assets/黑白沙滩.webp");
+  background-size: cover;
+}
+</style>
+
+<div class="heroimage-edge-blur">
+<div class="heroimageph sp-10-1">
+
+愿在风的庇护下，你将得到安眠；愿在浪的彼端，我们还能相见。 {.textkai}
+
+</div></div>
 
 <div style="color:#841d1f">
 

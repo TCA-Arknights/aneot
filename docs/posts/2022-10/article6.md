@@ -7,11 +7,25 @@ category:
   - 此地之外
 tag:
   - AliceLondon
-
+description: 大地上的一切，成为故事，口口相传，跨越时光
 order: 7
 ---
 
-大地上的一切，成为故事，口口相传，跨越时光 {.textkai}
+<style>
+.sp-10-2 {
+  background-image: url("/assets/花_笔_信.webp");
+  background-size: cover;
+  text-shadow: 0 0 6px black;
+  font-weight: bold;
+}
+</style>
+
+<div class="heroimage-edge-blur" style="opacity: 1">
+<div class="heroimageph sp-10-2">
+
+大地上的一切，成为故事，口口相传，跨越时光 {.textkai style="color: white"}
+
+</div></div>
 
 <!-- more -->
 
