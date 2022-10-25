@@ -19,9 +19,9 @@ title: Vol. 05 - 2022 年 10 月号
 - **见字如面·午间逸话**
   - [晚餐时间：萨尔贡风味瘤肉丸子烩饭](article5.html)
 - **画中秘境**
-  - [乌尔比安和花](comic1)
-  - [画中秘境](paintings)
+  - [乌尔比安和花](comic1.html)
+  - [画中秘境](paintings.html)
 - **特别企划**
-  - [特别专访：B站UP主 一只大哈鱼](interview)
+  - [特别专访：B站UP主 一只大哈鱼](interview.html)
 
 <ArticleAd />
