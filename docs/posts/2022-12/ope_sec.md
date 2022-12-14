@@ -11,7 +11,7 @@ tag:
 order: -2
 ---
 
-![](./res/Ope_Sec/topic.png)
+![](./res/ope_sec/topic.png)
 
 鬼魂从帝国庞大的阴影中爬出
 
@@ -26,7 +26,7 @@ order: -2
 前路茫茫，我们该去往何方
 
 
-![](./res/Ope_Sec/answer.jpeg)
+![](./res/ope_sec/answer.jpeg)
 
 扫一扫二维码查看本期答案
 
