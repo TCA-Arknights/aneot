@@ -12,7 +12,7 @@ tag:
 order: 1
 ---
 
-![](./res/illustration/topic.webp){style="float:left;max-width:35%;margin-left:1em"}
+![](./res/illustration/topic.webp){style="float:left;max-width:25%;margin-left:1em"}
 
 这是《回归线》的十一月刊，刊物主题是“彼处水如酒”。在步入本月月刊主题之前，让我们先来看看两个历史宗教故事。
 
