@@ -11,37 +11,37 @@ tag:
 order: -3
 ---
 
-![](./res/Ope_Sec/topic.png)
+![](./res/ope_sec/topic.png)
 
 各位刀客塔们大家好，这里是方舟命题组！这是博士水平测试与大家的第一次见面，以后也将成为常驻栏目，希望大家喜欢。本栏目主要通过单项选择题的方式来考察博士们对《明日方舟》中各种知识的理解和熟悉程度。如你所见，本期题目的主题是“干员秘闻”。祝各位玩得愉快！
 
 【1】有一些近卫干员不是术战者，但仍可以通过天赋或技能造成法术伤害。以下近卫干员中仅靠自身不能造成法术伤害的是
 
-| ![](./res/Ope_Sec/Q1_1.png) | ![](./res/Ope_Sec/Q1_2.png) | ![](./res/Ope_Sec/Q1_3.png) | ![](./res/Ope_Sec/Q1_4.png) |
+| ![](./res/ope_sec/Q1_1.png) | ![](./res/ope_sec/Q1_2.png) | ![](./res/ope_sec/Q1_3.png) | ![](./res/ope_sec/Q1_4.png) |
 | :---: | :---: | :---: | :---: |
 | A.布洛卡 | B.棘刺 | C.暴行 | D.宴 |
 
 【2】“爱猫猫协会”正在招收会员，有意者可到干员夜烟处报到。请问以下哪一位干员的种族不是菲林？
 
-| ![](./res/Ope_Sec/Q2_1.png) | ![](./res/Ope_Sec/Q2_2.png) | ![](./res/Ope_Sec/Q2_3.png) | ![](./res/Ope_Sec/Q2_4.png) |
+| ![](./res/ope_sec/Q2_1.png) | ![](./res/ope_sec/Q2_2.png) | ![](./res/ope_sec/Q2_3.png) | ![](./res/ope_sec/Q2_4.png) |
 | :---: | :---: | :---: | :---: |
 | A. | B. | C. | D. |
 
 【3】有些奇怪的图标可能看起来不是那么直观。以下四项技能和干员的职业对应关系正确的一项是
 
-| ![](./res/Ope_Sec/Q3_1.png) | ![](./res/Ope_Sec/Q3_2.png) | ![](./res/Ope_Sec/Q3_3.png) | ![](./res/Ope_Sec/Q3_4.png) |
+| ![](./res/ope_sec/Q3_1.png) | ![](./res/ope_sec/Q3_2.png) | ![](./res/ope_sec/Q3_3.png) | ![](./res/ope_sec/Q3_4.png) |
 | :---: | :---: | :---: | :---: |
 | A.术师 | B.先锋 | C.近卫 | D.医疗 |
 
 【4】以下立绘截取部分和干员的对应关系不正确的一项是
 
-| ![](./res/Ope_Sec/Q4_1.png) | ![](./res/Ope_Sec/Q4_2.png) | ![](./res/Ope_Sec/Q4_3.png) | ![](./res/Ope_Sec/Q4_4.png) |
+| ![](./res/ope_sec/Q4_1.png) | ![](./res/ope_sec/Q4_2.png) | ![](./res/ope_sec/Q4_3.png) | ![](./res/ope_sec/Q4_4.png) |
 | :---: | :---: | :---: | :---: |
 | A.绮良 | B.波登可 | C.斯卡蒂 | D.桑葚 |
 
 【5】我们总调侃阿消和杜林很矮，但是很少有人知道，其实有一名干员由于特殊原因没有登记身高，这名干员是
 
-| ![](./res/Ope_Sec/Q5_1.png) | ![](./res/Ope_Sec/Q5_2.png) | ![](./res/Ope_Sec/Q5_3.png) | ![](./res/Ope_Sec/Q5_4.png) |
+| ![](./res/ope_sec/Q5_1.png) | ![](./res/ope_sec/Q5_2.png) | ![](./res/ope_sec/Q5_3.png) | ![](./res/ope_sec/Q5_4.png) |
 | :---: | :---: | :---: | :---: |
 | A | B | C | D |
 
@@ -84,7 +84,7 @@ D.梓兰的天赋不会提升其攻击力
 
 【10】干员的立绘中往往会出现背后灵和其他有趣的东西。考虑所有时装和精英二立绘，以下干员的立绘中没有无人机的是
 
-| ![](./res/Ope_Sec/Q10_1.png) | ![](./res/Ope_Sec/Q10_2.png) | ![](./res/Ope_Sec/Q10_3.png) | ![](./res/Ope_Sec/Q10_4.png) |
+| ![](./res/ope_sec/Q10_1.png) | ![](./res/ope_sec/Q10_2.png) | ![](./res/ope_sec/Q10_3.png) | ![](./res/ope_sec/Q10_4.png) |
 | :---: | :---: | :---: | :---: |
 | A | B | C | D |
 
@@ -110,13 +110,13 @@ D.黏性超人
 
 【13】除了特种干员之外，还有很多干员可以通过攻击使敌人产生位移。以下哪一位干员无法做到这一点？
 
-| ![](./res/Ope_Sec/Q13_1.png) | ![](./res/Ope_Sec/Q13_2.png) | ![](./res/Ope_Sec/Q13_3.png) | ![](./res/Ope_Sec/Q13_4.png) |
+| ![](./res/ope_sec/Q13_1.png) | ![](./res/ope_sec/Q13_2.png) | ![](./res/ope_sec/Q13_3.png) | ![](./res/ope_sec/Q13_4.png) |
 | :---: | :---: | :---: | :---: |
 | A.燧石 | B.野鬃 | C.早露 | D.小莫 |
 
 
 
-![](./res/Ope_Sec/Answer.png)
+![](./res/ope_sec/Answer.png)
 
 扫一扫二维码查看本期答案
 
