@@ -22,6 +22,6 @@ title: Vol. 06 - 2022 年 11 月号：彼处水如酒
   - [金色的天马](comic1.html)
   - [画中秘境](paintings.html)
 - **特别企划**
-  - [干员密录](Ope_Sec.html)
+  - [干员秘闻：第一期](ope_sec.html)
 
 <ArticleAd />

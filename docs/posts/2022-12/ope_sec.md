@@ -3,7 +3,7 @@ icon: note
 title: 干员秘闻
 date: 2022-12-14
 category:
-  - 特别企划
+  - 干员秘闻
 tag:
 - 干员秘闻
 
