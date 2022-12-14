@@ -12,7 +12,7 @@ dir:
 
 **2022-12: Vol. 07 2022 年 12 月号**
 
-![](./2022-12/res/cover.jpg){style="float:left;max-width:60%;margin-left:1em"}
+![](./2022-12/res/cover.jpg){style="max-width:60%;margin-left:1em"}
 
 [**在线阅读**](./2022-12/README.md)
 
