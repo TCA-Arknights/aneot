@@ -1,7 +1,7 @@
 ---
 icon: palette
 title: 漫画四则
-author: 
+author: 15catsup
 date: 2022-11-13
 category:
   - 画中秘境
