@@ -1,17 +1,17 @@
 ---
-icon: repo
-article: false
-title: Vol. 07 - 2022 年 12 月号
+title: 主要功能与配置演示
+index: false
+icon: creative
+category:
+  - 使用指南
 ---
-
-![](./res/cover.jpg) {.centering}
 
 ## 目录
 
-- [**卷首语**](intro.html)
-- **见字如面 · 此地之外**
-  - [1](intro.html)
-  - [2](descripton.html)
-  - [3](subsription.html)
+- [Markdown 展示](markdown.md)
 
-<ArticleAd />
+- [页面展示](page.md)
+
+- [禁用展示](disable.md)
+
+- [加密展示](encrypt.md)
