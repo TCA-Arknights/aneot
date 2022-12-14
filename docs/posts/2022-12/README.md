@@ -22,6 +22,6 @@ title: Vol. 07 - 2022 年 12 月号
 - **特别专访**
 - - [特别专访：东方](interview.html)
 - **特别企划**
-  - [干员密录](Ope_Sec.html)
+  - [干员密录](ope_sec.html)
 
 <ArticleAd />
