@@ -20,7 +20,7 @@ title: Vol. 07 - 2022 年 12 月号
   - [漫画四则](comic1.html)
   - [画中秘境](paintings.html)
 - **特别专访**
-- - [特别专访：东方](interview.html)
+  - [特别专访：东方](interview.html)
 - **干员秘闻**
   - [干员秘闻：第二期](ope_sec.html)
 
