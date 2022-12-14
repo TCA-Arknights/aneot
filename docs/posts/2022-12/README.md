@@ -22,6 +22,6 @@ title: Vol. 06 - 2022 年 11 月号：彼处水如酒
 - **特别专访**
 - - [特别专访：东方](interview.html)
 - **特别企划**
-  - [干员密录](ope_sec.html)
+  - [干员密录](Ope_Sec.html)
 
 <ArticleAd />
