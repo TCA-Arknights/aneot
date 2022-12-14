@@ -6,11 +6,13 @@ dir:
     order: 1
 ---
 
+<!-- more -->
+
 # 最新一期 
 
-|**2022-12: Vol. 07 2022 年 12 月号**||
-| --- | --- |
-|![](./2022-12/res/cover.jpg)|[**在线阅读**](./2022-12/README.md)<br><br>[**下载 PDF**](https://aneot.lanzoue.com/b012bjyib) 密码: 5jy8|
+**2022-12: Vol. 07 2022 年 12 月号**
+![](./2022-12/res/cover.jpg){style="float:center;max-width:50%;margin-left:1em"}
+[**在线阅读**](./2022-12/README.md)<br>[**下载 PDF**](https://aneot.lanzoue.com/b012bjyib) 密码: 5jy8
 
 
 # 往期回顾
