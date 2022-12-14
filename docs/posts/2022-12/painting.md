@@ -11,7 +11,25 @@ tag:
 order: -1
 ---
 
+![](./res/illustration/澄闪（Lena_）.webp) {.centering}
+
 ---
+
+![](./res/illustration/澄闪（Lena_）.webp) {.centering}
+
+Artist: Lena_
+
+---
+
+![](./res/illustration/流明（秋某）.webp) {.centering}
+
+Artist: 秋某
+
+---
+
+![](./res/illustration/苇草（晴冬sw）.webp) {.centering}
+
+Artist: 晴冬sw
 
 
 
