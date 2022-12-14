@@ -11,14 +11,6 @@ tag:
 order: -1
 ---
 
-![](./res/illustration/) {.centering}
-
----
-
-![](./res/illustration/) {.centering}
-
-Artist: 
-
 ---
 
 
