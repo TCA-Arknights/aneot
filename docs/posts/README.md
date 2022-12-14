@@ -6,10 +6,12 @@ dir:
     order: 1
 ---
 
-![最新一期](./2022-11/res/cover.jpg)
-[下载 PDF](https://aneot.lanzoue.com/b012bjyib)<br>密码: 5jy8
+# 最新一期 2022-12: Vol. 07 2022 年 12 月号
 
-往期回顾
+![](./2022-12/res/cover.jpg){style="float:center;max-height:50%;margin-left:1em"}
+[下载 PDF](https://aneot.lanzoue.com/b012bjyib) 密码: 5jy8
+
+# 往期回顾
 |![](./2022-05/res/cover.webp)|![](./2022-06//res/cover.webp)|![](./2022-07/res/cover.webp)|
 |:-:|:-:|:-:|
 |[2022-05: Vol. Special <br>绿华漫霜优秀作品集](2022-05/)|[2022-06: Vol.01 <br>2022 年 06 月号](2022-06/)|[2022-07: Vol.02 <br>2022 年 07 月号：相互的彼方](2022-07/)|
