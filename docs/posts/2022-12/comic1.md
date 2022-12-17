@@ -1,6 +1,6 @@
 ---
 icon: palette
-title: 漫画四则
+title: 漫画三则
 author: 15catsup
 date: 2022-11-13
 category:

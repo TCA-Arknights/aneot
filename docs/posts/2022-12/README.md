@@ -17,7 +17,7 @@ title: Vol. 07 - 2022 年 12 月号
 - **见字如面 · 罗德岛日志**
   - [雨夜迷航](article4.html)
 - **画中秘境**
-  - [漫画四则](comic1.html)
+  - [漫画三则](comic1.html)
   - [画中秘境](paintings.html)
 - **特别专访**
   - [特别专访：东方](interview.html)
