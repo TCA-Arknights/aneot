@@ -1,4 +1,6 @@
 # Another End of Terra (AnEot)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FTCA-Arknights%2Faneot.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FTCA-Arknights%2Faneot?ref=badge_shield)
+
 
 A fanmade literary journal based on mobile game *Arknights*.
 
@@ -29,3 +31,7 @@ We only grant you the right to save and share as is. At the same time you must c
 We reserve all rights not granted to you, and if you violate the above requirements, we will withdraw all rights granted to you.
 
 **Copyright © 2022-2023 All Rights Reserved**
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FTCA-Arknights%2Faneot.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FTCA-Arknights%2Faneot?ref=badge_large)
