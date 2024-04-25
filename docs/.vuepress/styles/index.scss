@@ -129,17 +129,18 @@
 // 禁止打印指定元素
 @media print {
     .no-print {
-      display: none !important;
+        display: none !important;
     }
-  }  
+}
 
 // 禁止交互
 .no-interact {
-    user-drag: none;
     -webkit-user-drag: none;
     -khtml-user-drag: none;
     -moz-user-drag: none;
+    user-drag: none;
     pointer-events: none;
+    -webkit-user-select: none;
     user-select: none;
 }
 
