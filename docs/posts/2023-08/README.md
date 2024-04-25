@@ -1,5 +1,5 @@
 ---
-icon: repo
+icon: mdi:journal-outline
 article: false
 title: Vol. 15 - 2023 年 08 月号
 ---

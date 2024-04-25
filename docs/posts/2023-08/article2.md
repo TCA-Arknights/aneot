@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 一支舞，一首歌，一份礼物
 author: 飛鳥A
 date: 2023-08-12

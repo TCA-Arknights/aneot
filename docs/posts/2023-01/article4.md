@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 提灯与信号旗
 author: 林芷秋
 date: 2023-01-13

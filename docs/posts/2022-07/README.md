@@ -1,5 +1,5 @@
 ---
-icon: repo
+icon: mdi:journal-outline
 article: false
 title: Vol. 02 - 2022 年 07 月号：相互的彼方
 ---

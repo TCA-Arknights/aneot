@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 谢拉格漫游
 author: 茯苓白朮湯
 date: 2024-03-30

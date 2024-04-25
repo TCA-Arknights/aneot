@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: lost in 1083
 author: 早睡早起睡眠好
 date: 2023-06-06

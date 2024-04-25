@@ -1,5 +1,5 @@
 ---
-icon: repo
+icon: mdi:journal-outline
 article: false
 title: Vol. 01 - 2022 年 06 月号
 ---

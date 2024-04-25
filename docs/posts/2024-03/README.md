@@ -1,5 +1,5 @@
 ---
-icon: repo
+icon: mdi:journal-outline
 article: false
 title: Vol. 20 - 2024 年 03 月号：希望的诸多表现形式
 ---

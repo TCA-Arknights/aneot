@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 作吾
 author: fx
 date: 2022-05-17

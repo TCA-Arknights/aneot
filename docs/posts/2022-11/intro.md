@@ -1,5 +1,5 @@
 ---
-icon: community
+icon: mdi:read-more-outline
 article: false
 title: 卷首语
 author: 广英和荣耀

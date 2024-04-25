@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 风雪之隙
 author: 阿菌
 date: 2024-02-21

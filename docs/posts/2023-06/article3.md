@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 潮石镇的流浪猫
 author: 爱默生家的恶客
 date: 2023-06-06

@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 城市行驶在大地上
 author: 弦惊
 date: 2023-04-11

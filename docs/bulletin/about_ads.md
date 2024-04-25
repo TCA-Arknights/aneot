@@ -1,5 +1,5 @@
 ---
-icon: info
+icon: material-symbols:info-outline
 title: 关于虚拟广告
 date: 2023-08-07
 category:

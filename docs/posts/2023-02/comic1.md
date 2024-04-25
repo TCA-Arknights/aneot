@@ -1,5 +1,5 @@
 ---
-icon: palette
+icon: mdi:palette-outline
 title: 漫画一则
 author: 15catsup
 date: 2023-02-11

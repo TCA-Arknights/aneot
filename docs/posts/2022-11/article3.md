@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 回身，空无一物
 author: 微萤
 date: 2022-12-09

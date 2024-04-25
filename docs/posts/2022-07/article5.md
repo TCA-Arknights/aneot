@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 星尘
 author: 广英和荣耀
 date: 2022-07-20

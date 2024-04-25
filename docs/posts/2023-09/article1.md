@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 阿丽娜，我们想你
 author: 夕之流火
 date: 2023-09-19

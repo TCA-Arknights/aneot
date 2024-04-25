@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 狮
 author: 香江湘调
 date: 2022-08-22

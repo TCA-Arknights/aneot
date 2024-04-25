@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 大湖巫女
 author: 广英和荣耀
 date: 2022-12-09

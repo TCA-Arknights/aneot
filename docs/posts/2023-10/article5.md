@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 水精灵与忒休斯之船
 author: 不想好好取名字
 date: 2023-10-22

@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 你需知晓我抵不过你
 author: 潮雾
 date: 2023-06-06

@@ -1,5 +1,5 @@
 ---
-icon: palette
+icon: mdi:palette-outline
 title: 漫画一则
 author: 鬼仔仔
 date: 2023-09-19

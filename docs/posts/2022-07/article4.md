@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 一步
 author: M1887
 date: 2022-07-20

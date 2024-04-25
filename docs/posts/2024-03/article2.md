@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 一部烂片
 author: 孤月
 date: 2024-03-30

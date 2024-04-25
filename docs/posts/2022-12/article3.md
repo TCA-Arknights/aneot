@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 哑姬
 author: 镀铬的黄金鸟；1639
 date: 2022-12-13

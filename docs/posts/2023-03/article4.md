@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 嬴王娶亲
 author: 覆冰NES
 date: 2023-03-02

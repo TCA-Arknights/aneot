@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 道别是一件难事
 author: 临白衣Profond
 date: 2023-12-14

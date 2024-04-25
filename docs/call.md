@@ -1,5 +1,5 @@
 ---
-icon: proposal
+icon: mdi:account-upload-outline
 title: 征稿启事
 date: 2022-07-12
 tag:

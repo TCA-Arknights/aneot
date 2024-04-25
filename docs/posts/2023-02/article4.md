@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 夜空中的圣诞礼物
 author: 阿爆
 date: 2023-02-11

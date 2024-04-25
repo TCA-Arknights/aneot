@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 雪之所以是雪
 author: 江齐
 date: 2023-10-22

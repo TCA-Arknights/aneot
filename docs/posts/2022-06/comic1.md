@@ -1,5 +1,5 @@
 ---
-icon: palette
+icon: mdi:palette-outline
 title: 罗德岛绘本：猞猁奶奶
 author: 亲爱的树鹨
 date: 2022-06-27

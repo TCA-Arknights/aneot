@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 老人河
 author: 艾柯.ACR
 date: 2022-09-22

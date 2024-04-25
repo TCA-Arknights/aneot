@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 巫王已死
 author: mutyuu
 date: 2024-02-21

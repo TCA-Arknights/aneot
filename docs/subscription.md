@@ -1,5 +1,5 @@
 ---
-icon: rss
+icon: mdi:rss-box
 title: 订阅《回归线》
 date: 2022-07-12
 tag:

@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 凡人与夕
 author: 饱和式安利受害者
 date: 2022-09-22

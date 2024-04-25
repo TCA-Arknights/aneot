@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 流浪者与歌-再次歌唱
 author: 殷商×
 date: 2023-09-19

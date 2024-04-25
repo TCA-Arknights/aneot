@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 四卫不倾，三风不度
 author: 酗酒仙子一方通行
 date: 2023-06-06

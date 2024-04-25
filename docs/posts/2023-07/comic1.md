@@ -1,5 +1,5 @@
 ---
-icon: palette
+icon: mdi:palette-outline
 title: 漫画一则
 author: 恶灵
 date: 2023-07-10

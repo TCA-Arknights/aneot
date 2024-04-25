@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 誓约之日
 author: 琉璃色的龙神玉
 date: 2022-06-27

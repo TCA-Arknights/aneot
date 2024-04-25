@@ -1,5 +1,5 @@
 ---
-icon: palette
+icon: mdi:palette-outline
 title: 漫画一则
 author: 末夜猫
 date: 2023-10-22

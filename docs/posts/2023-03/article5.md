@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 迷宫中的女王
 author: 红字
 date: 2023-03-02

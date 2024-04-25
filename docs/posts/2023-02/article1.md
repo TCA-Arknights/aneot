@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 绿野幻梦
 author: 饱和式安利受害者
 date: 2023-02-11

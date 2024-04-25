@@ -1,5 +1,5 @@
 ---
-icon: repo
+icon: mdi:journal-outline
 article: false
 title: Vol. 18 - 2023 年 12 月号：结束
 ---

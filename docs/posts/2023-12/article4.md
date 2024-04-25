@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 最后一课
 author: 阿尔呃呃
 date: 2023-12-14

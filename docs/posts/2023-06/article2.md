@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 忆剪残发
 author: 新手不好热
 date: 2023-06-06

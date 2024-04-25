@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 披萨与玛格丽特
 author: RainyQuirrel
 date: 2023-09-19

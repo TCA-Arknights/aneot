@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 加州旅馆
 author: 亚麻
 date: 2023-05-09

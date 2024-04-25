@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 武魂
 author: 广英和荣耀
 date: 2023-09-19

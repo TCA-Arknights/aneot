@@ -1,5 +1,5 @@
 ---
-icon: repo
+icon: mdi:journal-outline
 article: false
 title: Vol. 04 - 2022 年 09 月号：乡愁和归处
 ---

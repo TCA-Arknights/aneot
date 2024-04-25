@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 一场位于罗德岛的葬礼
 author: 鲍伊岚
 date: 2023-12-14

@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title:  可汗，征伐神明
 author: RMB_player
 date: 2022-12-13

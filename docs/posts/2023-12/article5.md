@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 只是某个午后的后日谈
 author: 疯逐龙蛟
 date: 2023-12-14

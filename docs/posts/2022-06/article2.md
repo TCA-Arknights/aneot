@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 困境中的骑士
 author: 格里芬
 date: 2022-06-27

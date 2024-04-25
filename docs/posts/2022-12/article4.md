@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 雨夜迷航
 author: 葛上庭
 date: 2022-12-13

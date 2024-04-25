@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 关于澄闪的故事
 author: 林汝夕
 date: 2023-02-11

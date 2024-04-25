@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 博士——作为人类物种的孤独
 author: 鲍伊岚
 date: 2022-12-09

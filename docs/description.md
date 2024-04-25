@@ -1,5 +1,5 @@
 ---
-icon: info
+icon: material-symbols:info-outline
 title: 板块说明
 date: 2022-05-15
 

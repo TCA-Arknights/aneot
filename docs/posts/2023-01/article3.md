@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 荒漠旅人
 author: 淹没荒芜的海草
 date: 2023-01-13

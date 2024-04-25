@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 回归线专访与森空岛专访对比
 date: 
 ---

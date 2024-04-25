@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 两小无猜
 author: 略略呜哇
 date: 2024-03-30

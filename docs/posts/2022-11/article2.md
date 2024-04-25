@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 海，以及彼处的海
 author: f(x)
 date: 2022-12-09

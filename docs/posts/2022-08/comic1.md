@@ -1,5 +1,5 @@
 ---
-icon: palette
+icon: mdi:palette-outline
 title: 漫画二则
 author: 阿哉哉哉
 date: 2022-08-22

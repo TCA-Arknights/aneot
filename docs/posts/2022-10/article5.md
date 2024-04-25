@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 晚餐时间：萨尔贡风味瘤肉丸子烩饭
 author: 萨提亚
 date: 2022-10-22

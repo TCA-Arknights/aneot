@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 一似金黄的明月般 取铳
 author: yoru
 date: 2023-07-10

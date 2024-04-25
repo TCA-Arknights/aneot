@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 舞者
 author: 月琉璃
 date: 2022-06-27

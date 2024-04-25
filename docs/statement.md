@@ -1,5 +1,5 @@
 ---
-icon: license
+icon: mdi:license
 title: 《回归线》网页版用户协议
 date: 2023-03-15
 tag:

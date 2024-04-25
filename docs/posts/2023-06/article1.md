@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 战螂
 author: 老多宝鱼
 date: 2023-06-06

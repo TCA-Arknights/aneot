@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 乌萨斯士兵故事三则——来吸口烟吧
 shortTitle: 乌萨斯士兵故事三则
 author: SK

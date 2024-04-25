@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 她印象中的艾雅法拉
 author: 仙贝
 date: 2023-02-11

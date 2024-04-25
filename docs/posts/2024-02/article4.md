@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 药分博士的扯淡日常
 author: Ann
 date: 2024-02-21

@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 增福增寿
 author: 万能De小黑
 date: 2022-12-13

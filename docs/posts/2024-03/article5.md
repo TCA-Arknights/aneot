@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 舌尖上的泰拉
 author: 绊皋夷
 date: 2024-03-30

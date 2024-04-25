@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 英雄的启航
 author: TN
 date: 2023-01-12

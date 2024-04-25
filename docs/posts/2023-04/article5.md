@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 魂归故里
 author: 银角dah
 date: 2023-04-11

@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 节日快乐，博士
 author: AliceLondon
 date: 2022-10-22

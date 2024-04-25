@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 弄假成真
 author: 二九四零
 date: 2023-10-22

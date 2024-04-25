@@ -1,5 +1,5 @@
 ---
-icon: repo
+icon: gg:list
 article: false
 title: 期刊列表
 dir:

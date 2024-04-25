@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 雨天
 author: 樱cher
 date: 2023-07-10

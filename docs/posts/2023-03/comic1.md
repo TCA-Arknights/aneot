@@ -1,5 +1,5 @@
 ---
-icon: palette
+icon: mdi:palette-outline
 title: 漫画四则
 author: 皿鸢悠悠哉
 date: 2023-03-02

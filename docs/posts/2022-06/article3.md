@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 审判的终点
 author: 饱和式安利受害者
 date: 2022-06-27

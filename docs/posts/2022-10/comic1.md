@@ -1,5 +1,5 @@
 ---
-icon: palette
+icon: mdi:palette-outline
 title: 漫画二则
 author: 西江龙王
 date: 2022-10-22

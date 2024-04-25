@@ -1,5 +1,5 @@
 ---
-icon: guide
+icon: mdi:love
 title: 捐助者寄语
 article: false
 order: 2

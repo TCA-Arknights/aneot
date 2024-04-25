@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 酒馆三篇
 author: 幺垯
 date: 2022-08-22

@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 定风波
 author: 绊皋夷
 date: 2024-03-30

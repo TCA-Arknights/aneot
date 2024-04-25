@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 长夜梦光
 author: 覆冰NES
 date: 2022-12-09

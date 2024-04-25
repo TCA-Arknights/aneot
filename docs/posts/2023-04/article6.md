@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 幽灵法则与最后夏天
 author: 小茶详情
 date: 2023-04-11

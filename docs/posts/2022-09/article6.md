@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 故乡
 author: 极卦_元初
 date: 2022-09-22

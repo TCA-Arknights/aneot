@@ -1,5 +1,5 @@
 ---
-icon: palette
+icon: mdi:palette-outline
 title: 漫画三则
 author: 15catsup
 date: 2022-11-13

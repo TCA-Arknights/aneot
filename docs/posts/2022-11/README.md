@@ -1,5 +1,5 @@
 ---
-icon: repo
+icon: mdi:journal-outline
 article: false
 title: Vol. 06 - 2022 年 11 月号：彼处水如酒
 ---

@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 山川故人
 author: 执光
 date: 2023-10-22

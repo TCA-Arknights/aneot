@@ -1,5 +1,5 @@
 ---
-icon: repo
+icon: mdi:journal-outline
 article: false
 title: Vol. 16 - 2023 年 9 月号：遗于身后之物
 ---

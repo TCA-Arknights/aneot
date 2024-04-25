@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 血先生
 author: 第五新进
 date: 2022-05-17

@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 书与雪
 author: 少白
 date: 2022-07-20

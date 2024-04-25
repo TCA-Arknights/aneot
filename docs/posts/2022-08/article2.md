@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 子不虚
 author: 万能De小黑
 date: 2022-08-22

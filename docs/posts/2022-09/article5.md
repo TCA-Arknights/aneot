@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 归人
 author: 一只小小的止月
 date: 2022-09-22

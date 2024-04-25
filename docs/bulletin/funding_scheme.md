@@ -1,5 +1,5 @@
 ---
-icon: info
+icon: vscode-icons:file-type-funding
 title: 支持我们
 date: 2023-04-14
 category:

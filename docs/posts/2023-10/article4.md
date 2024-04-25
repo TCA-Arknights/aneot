@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 意夕
 author: 世界night
 date: 2023-10-22

@@ -1,5 +1,5 @@
 ---
-icon: proposal
+icon: mdi:upload-box-outline
 title: 《回归线》投稿指南
 shortTitle: 投稿指南
 date: 2023-01-20

@@ -1,5 +1,5 @@
 ---
-icon: repo
+icon: mdi:journal-outline
 title: Vol. SP - 绿华漫霜优秀作品集
 article: false
 dir:

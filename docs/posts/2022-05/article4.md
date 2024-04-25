@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 春铃初绽 First Muguet of Spring
 shortTitle: 春铃初绽
 author: unins000

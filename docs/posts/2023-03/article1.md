@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 罗德岛干员快递柜
 author: 瓷卿
 date: 2023-03-02

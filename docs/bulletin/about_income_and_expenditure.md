@@ -1,5 +1,5 @@
 ---
-icon: info
+icon: material-symbols:info-outline
 title: 关于开放捐助渠道
 date: 2023-09-01
 category:

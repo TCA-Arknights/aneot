@@ -1,5 +1,5 @@
 ---
-icon: news
+icon: mdi:announcement-outline
 title: 公告栏
 article: false
 order: 1

@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 欢迎来到莱娜的庭院·蓝色龙胆花
 author: 月琉璃
 date: 2022-10-22

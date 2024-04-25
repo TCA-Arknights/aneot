@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 《天方夜谭》
 author: 湖光9909
 date: 2024-02-21

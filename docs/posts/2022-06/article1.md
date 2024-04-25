@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 潮梦圆舞
 author: 广英和荣耀
 date: 2022-06-27

@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 赛博海猎 1098
 author: 覆冰NES
 date: 2022-08-22

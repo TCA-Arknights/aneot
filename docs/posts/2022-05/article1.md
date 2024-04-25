@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 躲春天的人
 date: 2022-05-17
 category:

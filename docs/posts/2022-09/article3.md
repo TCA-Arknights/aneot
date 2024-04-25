@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 大雪
 author: Norah
 date: 2022-09-22

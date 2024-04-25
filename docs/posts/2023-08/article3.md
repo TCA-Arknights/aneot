@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 永生者死后会前往英灵殿吗？
 author: aleph的法则
 date: 2023-08-12

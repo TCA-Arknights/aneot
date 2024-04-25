@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 冬之夜
 author: 剪秋罗
 date: 2022-08-22

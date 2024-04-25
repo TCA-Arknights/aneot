@@ -1,5 +1,5 @@
 ---
-icon: palette
+icon: mdi:palette-outline
 title: 画中秘境
 date: 2022-10-22
 category:

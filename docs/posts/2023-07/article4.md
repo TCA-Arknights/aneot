@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 林中的复仇者
 author: 无尽的苹果
 date: 2023-07-10

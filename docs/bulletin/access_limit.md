@@ -1,5 +1,5 @@
 ---
-icon: info
+icon: material-symbols:info-outline
 title: 关于内容限制
 date: 2023-04-14
 category:

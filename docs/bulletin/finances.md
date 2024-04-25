@@ -1,5 +1,5 @@
 ---
-icon: calculate
+icon: material-symbols:finance
 title: 收支一览
 article: false
 order: 1

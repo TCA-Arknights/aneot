@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 帘外花
 author: 剪秋罗
 date: 2022-05-17

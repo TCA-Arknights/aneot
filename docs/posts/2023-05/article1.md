@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 两个孩子
 author: Sta-Arrogante
 date: 2023-05-09

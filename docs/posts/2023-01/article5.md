@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 去龙门
 author: M1887
 date: 2023-01-14

@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 第一年
 author: 黄桃罐头有卖的吗
 date: 2022-10-22

@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 枕头下的秘密
 author: TN
 date: 2022-07-20

@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 初啼
 author: 柳辰
 date: 2024-03-30

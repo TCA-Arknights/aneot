@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 日月迟
 author: 剪秋罗
 date: 2022-12-09

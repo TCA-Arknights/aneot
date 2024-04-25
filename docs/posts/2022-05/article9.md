@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 季节尽头与冷酷之梦
 author: 盐酸盐酸盐
 date: 2022-05-17

@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 海燕与孔雀鱼的短歌：大地之眼
 shortTitle: 海燕与孔雀鱼的短歌
 author: 亲爱的树鹨

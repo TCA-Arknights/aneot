@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 老萨卡兹
 author: 黒子
 date: 2022-09-22

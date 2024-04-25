@@ -1,5 +1,5 @@
 ---
-icon: repo
+icon: mdi:journal-outline
 article: false
 title: Vol. 08 - 2023 年 01 月号：一个期许，或是一个承诺
 ---

@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 没入油烟
 author: ephemeral20
 date: 2023-04-11

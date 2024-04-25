@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 并不正经的罗德岛中学
 author: 清篁有筠
 date: 2024-02-21

@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 菩提
 author: 万能De小黑
 date: 2023-05-09

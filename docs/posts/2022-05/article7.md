@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 莱娜，香薰，玉米百合
 author: Karma_0xCC
 date: 2022-05-17

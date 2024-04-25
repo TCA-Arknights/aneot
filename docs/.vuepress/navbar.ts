@@ -4,7 +4,7 @@ export default navbar([
   "/",
   {
     text: "期刊",
-    icon: "repo",
+    icon: "mdi:journal-multiple",
     prefix: "/posts/",
     children: [
       "",
@@ -18,7 +18,7 @@ export default navbar([
   },
   {
     text: "关于我们",
-    icon: "creative",
+    icon: "mdi:create-outline",
     prefix: "/",
     children: [
       "bulletin/",
@@ -30,12 +30,12 @@ export default navbar([
   },
   {
     text: "PDF下载",
-    icon: "storage",
+    icon: "ic:round-download",
     link: "https://aneotpan.wuyilingwei.com"
   },
   {
     text: "泰讯枢纽",
-    icon: "link",
+    icon: "mdi:link-variant",
     link: "https://terrach.net/"
   }
 ]);

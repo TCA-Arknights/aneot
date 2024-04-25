@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 杻阳山阁
 author: 巡检长安
 date: 2022-09-22

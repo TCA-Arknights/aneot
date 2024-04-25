@@ -1,5 +1,5 @@
 ---
-icon: app
+icon: mdi:application-array-outline
 title: 如何将回归线安装为应用
 date: 2022-05-15
 article: false

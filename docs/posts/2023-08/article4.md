@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 沙雪坚心
 author: 木场夕立
 date: 2023-08-12

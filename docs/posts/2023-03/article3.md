@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 当重岳这帮人看电视剧玉门风云开播
 author: 子莜
 date: 2023-03-02

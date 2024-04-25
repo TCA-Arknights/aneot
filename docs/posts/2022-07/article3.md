@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 四条旅途
 author: 亚麻
 date: 2022-07-20

@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 叙拉古的河缓缓流
 author: 吟月
 date: 2023-03-02

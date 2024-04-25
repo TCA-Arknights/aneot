@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 杯中酒
 author: 葛上庭
 date: 2023-04-11

@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 她走进森林
 author: Norah
 date: 2022-05-17

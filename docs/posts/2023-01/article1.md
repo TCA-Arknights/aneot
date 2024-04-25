@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title:  罗德岛后勤部公共留言板
 author: FuG
 date: 2023-01-11

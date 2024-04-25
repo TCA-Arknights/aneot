@@ -1,5 +1,5 @@
 ---
-icon: repo
+icon: mdi:journal-outline
 article: false
 title: Vol. 14 - 2023 年 07 月号 ：人生的路口
 ---

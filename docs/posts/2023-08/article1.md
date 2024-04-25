@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: Wonderful U
 author: Mi_AQi
 date: 2023-08-12

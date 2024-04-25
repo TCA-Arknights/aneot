@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 塞雷娅 新的时代
 author: 江齐
 date: 2023-07-10

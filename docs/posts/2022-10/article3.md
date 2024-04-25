@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 沙滩、海、我和 TA 的梦
 author: AshAmber
 date: 2022-10-22

@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 一百年后，与凯尔希的第三场约会
 author: 盐酸盐酸盐
 date: 2023-02-11

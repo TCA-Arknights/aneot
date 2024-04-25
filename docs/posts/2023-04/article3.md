@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 叙拉古人后传——卡车司机
 author: 铃风
 date: 2023-04-11

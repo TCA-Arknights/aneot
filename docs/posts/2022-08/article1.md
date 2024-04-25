@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 骑士·刺客
 author: 清平
 date: 2022-08-22

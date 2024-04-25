@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 牵牛花
 author: 安魂夜绅士
 date: 2023-05-09

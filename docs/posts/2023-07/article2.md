@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 宁声
 author: 温虞鱼鱼
 date: 2023-07-10

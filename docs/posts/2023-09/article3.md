@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 奥斯塔弄丢了无线耳机
 author: 鵺安
 date: 2023-09-19

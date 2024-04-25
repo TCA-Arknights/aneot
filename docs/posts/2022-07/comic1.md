@@ -1,5 +1,5 @@
 ---
-icon: palette
+icon: mdi:palette-outline
 title: 同路
 author: 深海鱿鱼酱
 date: 2022-07-20

@@ -1,5 +1,5 @@
 ---
-icon: article
+icon: material-symbols:article-outline
 title: 落水太阳
 author: 甲基吲哚
 date: 2022-10-22
